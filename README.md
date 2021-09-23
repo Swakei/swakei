@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swakei
 - 👀 I’m interested in ... Project management
 - 🌱 I’m currently learning ... At mount Kenya University kenya
-- 💞️ I’m looking to collaborate on ... Data plannist and managers
+- 💞️ I’m looking to collaborate on ... Data planning and management
 - 📫 How to reach me ... My email -swakeidenis@gmail.com
 
 <!---
